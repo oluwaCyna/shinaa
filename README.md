@@ -32,15 +32,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oluwaCyna&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=oluwaCyna&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oluwaCyna&theme=radical)
-
-
-![Linux](https://github-readme-streak-stats.herokuapp.com/?user=oluwaCyna&theme=radical)
-
-![Mujeeb's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=oluwaCyna&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=oluwaCyna&theme=radical&exclude_days=Sun%2CSat)]
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=oluwaCyna&theme=radical&exclude_days=Sun%2CSat&type=png)]
 
 
