@@ -34,3 +34,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oluwaCyna&theme=radical)
 
+
+![Linux](https://github-readme-streak-stats.herokuapp.com/?user=oluwaCyna&theme=radical)
+
+![Mujeeb's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=oluwaCyna&theme=radical)
+
+
