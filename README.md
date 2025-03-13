@@ -5,6 +5,8 @@
 
 ![Mujeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwaCyna&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaCyna&layout=compact&theme=radical)](https://github.com/oluwaCyna)
+
 ### Featured Projects
 - [🚀 POS & E-Commerce System](https://github.com/ecommerce_pos)
 - [🚀 POS & Inventory System](https://github.com/inventory_system_pos)  
@@ -30,4 +32,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oluwaCyna&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=oluwaCyna&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaCyna&layout=compact&theme=radical)](https://github.com/oluwaCyna)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oluwaCyna&theme=radical)](https://git.io/streak-stats)
+
