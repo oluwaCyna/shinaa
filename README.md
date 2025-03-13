@@ -39,9 +39,8 @@
 
 ![Mujeeb's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=oluwaCyna&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=oluwaCyna&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=oluwaCyna&theme=radical&exclude_days=Sun%2CSat)]
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=oluwaCyna&theme=radical&exclude_days=Sun%2CSat&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=oluwaCyna&theme=radical&exclude_days=Sun%2CSat&type=png)]
 
 
-https://streak-stats.demolab.com?user=oluwaCyna&theme=radical&exclude_days=Sun%2CSat&type=json
