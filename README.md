@@ -8,8 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaCyna&layout=compact&theme=radical)](https://github.com/oluwaCyna)
 
 ### Featured Projects
-- [🚀 POS & E-Commerce System](https://github.com/ecommerce_pos)
-- [🚀 POS & Inventory System](https://github.com/inventory_system_pos)  
+- [🚀 POS & E-Commerce System](https://github.com/POS-E-Commerce-System)
+- [🚀 POS & Inventory System](https://github.com/POS-Inventory-System)  
 - [🚀 Luminate - Marketplace](https://github.com/luminate)  
 - [🚀 Maker-Checker System with Wallet Management](https://github.com/backendtest)  
 - [🚀 Simple Sales and Order Management System](https://github.com/memzyt)  
